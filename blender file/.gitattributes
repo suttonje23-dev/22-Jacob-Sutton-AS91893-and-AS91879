@@ -1,0 +1,5 @@
+*.blend1 filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+leopard[[:space:]]2[[:space:]]tank filter=lfs diff=lfs merge=lfs -text
+leopard[[:space:]]2[[:space:]]tank1 filter=lfs diff=lfs merge=lfs -text
